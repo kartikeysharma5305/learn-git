@@ -1,4 +1,4 @@
-# Leran about git and github
+# Learn about git and github
 
 what up biznatch
 
